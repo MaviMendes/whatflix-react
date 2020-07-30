@@ -1,8 +1,8 @@
 * {
-  box-sizing: border-box;
-  font-family: 'Roboto', sans-serif;
+  box-sizing: border-box;/*não permite que o padding passe no max weight*/
+  font-family: 'Roboto', sans-serif;/*fonte colocado no html*/
 }
-
+/*css variables*/
 :root {
   --primary: #2A7AE4;
   --black: #000000;
@@ -18,14 +18,10 @@ html,
 body {
   margin: 0;
   padding: 0;
+  background-color: rgb(226, 225, 225); 
+ 
 }
-
-a {
+a {/*link com a cor do pai*/
   color: inherit;
 } 
 
-#root {
-  min-height: calc(100vh - var(--bodyPaddingTop));
-  display: flex;
-  flex-direction: column;
-}

@@ -6,7 +6,7 @@ import Carousel from '../../components/Carousel';
 import Footer from '../../components/Footer';
 function Home() { //import chama JSX(JavaScript XML), não HTML
   return (
-    <div style={{background: "#141414"}}>
+    <div>
       <Menu />
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
