@@ -28,7 +28,7 @@ function CadastroCategoria() {
   }
   useEffect(() => {
     if (window.location.href.includes('localhost')) {
-      const URL = 'http://localhost:8081/categorias';
+      const URL = 'https://whatfliximersao.herokuapp.com/categorias';
       fetch(URL)
         .then(async (respostaDoServer) => {
           if (respostaDoServer.ok) {
