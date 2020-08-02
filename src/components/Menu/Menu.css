@@ -42,7 +42,7 @@
   }
   
   .ButtonLink {
-    color: var(--white);
+    color: var(--grayLight);
     border: 1px solid var(--white);
     box-sizing: border-box;
     cursor: pointer;
@@ -67,7 +67,7 @@
       left: 0;
       right: 0;
       bottom: 0;
-      background: var(--primary);
+      background: #f2112f;
       border-radius: 0;
       border: 0;
       text-align: center;

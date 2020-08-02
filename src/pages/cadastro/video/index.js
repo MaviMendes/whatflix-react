@@ -13,7 +13,7 @@ function CadastroVideo() {
   const { handleChange, values } = useForm({
     titulo: 'Video padrão',
     url: 'https://www.youtube.com/watch?v=jOAU81jdi-c',
-    categoria: 'Front End',
+    categoria: 'Já existente ou nova categoria',
   });
 
   useEffect(() => {
