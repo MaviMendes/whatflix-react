@@ -1,9 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+I made this project during the Imersão React, by Alura, and with the help from other participants. It is the first time I use React and I am amazed by all the usefull things we can do with React and its libraries, we must thanks all the developers who helped build and improve it.
+Alura's team though about a Netflix-like website, and I added some links to intersting and useful youtube videos and channels I use for studying, getting informed and to enjoying my free time.
 ## Available Scripts
 
 In the project directory, you can run:
-
+### `npm run dev `
+This will be like running npm start. It will work due to a change in the "package.json" file made in this specific project.
 ### `npm start`
 
 Runs the app in the development mode.<br />
