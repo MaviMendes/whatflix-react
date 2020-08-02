@@ -1,21 +1,196 @@
 {
-    "categorias": [
-      {
-        "id": 1,
-        "titulo": "Front End",
-        "cor": "#6BD1FF",
-        "link_extra": {
-          "text": "Formação de Front End na Alura",
-          "url": "https://www.alura.com.br/cursos-online-front-end"
-        }
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Curiosidades e afins",
+      "cor": "#0870d1",
+      "link_extra": {
+        "text": "Na vibe \"só sei que nada sei\"",
+        "url": "https://www.dw.com/pt-br/not%C3%ADcias/cultura/s-7144"
       }
-     ],
-    "videos": [
-      {
-        "id": 1,
-        "categoriaId": 1,
-        "titulo": "SEO com React",
-        "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+    },
+    {
+      "id": 2,
+      "titulo": "Podcasts",
+      "cor": "#b80606",
+      "link_extra": {
+        "text": "Conversas pra aprender",
+        "url": "https://www.b9.com.br/podcasts/"
       }
-    ]
-  }
+    },
+    {
+      "id": 3,
+      "titulo": "Programação",
+      "cor": "#ffc908",
+      "link_extra": {
+        "text": "Lógica de programação, linguagens, exerícios",
+        "url": "https://www.geeksforgeeks.org/"
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "Veganismo",
+      "cor": "#0870d1",
+      "link_extra": {
+        "text": "O que é? Por que adotar esse estilo de vida?",
+        "url": "https://www.svb.org.br/"
+      }
+    },
+    {
+      "id": 5,
+      "titulo": "Música clássica",
+      "cor": "#10a308",
+      "link_extra": {
+        "text": "Para relaxar e apreciar",
+        "url": "http://www.grupocorpo.com.br/pt-br"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Think like a coder",
+      "url": "https://www.youtube.com/watch?v=KFVdHDMcepw&list=PLJicmE8fK0EgogMqDYMgcADT1j5b911or&t=0s"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Podem as máquinas ler nossas mentes?",
+      "url": "https://www.youtube.com/watch?v=QFk3e5PcK7s&list=PLJicmE8fK0EjmM_h5SlfvmbW_ZxKjLzHR&index=2"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "A física do Pequeno Príncipe",
+          "url": "https://www.youtube.com/watch?v=x9xSGQwg7JI"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Desigualdade social em Flatland",
+          "url": "https://www.youtube.com/watch?v=wmI0dXY2LdU&list=PLtjX2mCwXXQtQBGeRMTprqaEkYxBDbI2A&index=7"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "O que é inteligência?",
+      "url": "https://www.youtube.com/watch?v=ck4RGeoHFko"
+    },
+    {
+      "id": 6,
+      "categoriaId": 2,
+      "titulo": "O cérebro humano é um computador?",
+      "url": "https://www.youtube.com/watch?v=s3RCSFfV-OQ"
+    },
+    {
+      "id": 7,
+      "categoriaId": 2,
+      "titulo": "Afrofuturismo",
+          "url": "https://www.youtube.com/watch?v=xUix2kmUkN8"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "Onde estamos com a cabeça?",
+      "url": "https://www.youtube.com/watch?v=mvJllp1LhqM"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "Como a ciência transformou as compras?",
+      "url": "https://www.youtube.com/watch?v=X_YQzzYIueQ"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Estudar por toda a vida é a nova realidade?",
+      "url": "https://www.youtube.com/watch?v=zkmvCXLNq70"
+    },
+    {
+      "id": 11,
+      "categoriaId": 3,
+      "titulo": "Lógica de programação",
+       "url": "https://www.youtube.com/watch?v=41ubXTEPFO0&list=PLucm8g_ezqNpYL-z-lutCuBplhx9aqkdd&index=1"
+    },
+    {
+      "id": 12,
+      "categoriaId": 3,
+      "titulo": "Linguagem C",
+      "url": "https://www.youtube.com/watch?v=qe937LehVvY"
+    },
+    {
+      "id": 13,
+      "categoriaId": 3,
+      "titulo": "Python for beginners",
+      "url": "https://www.youtube.com/watch?v=rfscVS0vtbw&t=9s"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "JavaScript",
+      "url": "https://www.youtube.com/watch?v=PkZNo7MFNFg&t=2s"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "Programando um Bot para o WhatsApp",
+      "url": "https://www.youtube.com/watch?v=a4xBBq8aEag"
+    },
+    {
+      "id": 16,
+      "categoriaId": 4,
+      "titulo": "10 dicas para se tornar vegano(a)",
+      "url": "https://www.youtube.com/watch?v=52DnBXYCdYU"
+    },
+    {
+      "id": 17,
+      "categoriaId": 4,
+      "titulo": "Campos de Veneno: soja na floresta amazônica",
+      "url": "https://www.youtube.com/watch?v=04Is5kjt8CQ"
+    },
+    {
+      "id": 18,
+      "categoriaId": 4,
+      "titulo": "O Que Aconteceria se de Repente o Mundo se Tornasse Vegetariano?",
+      "url": "https://www.youtube.com/watch?v=2pPwwU1N9hM"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "Monja Coen: Vegetarianos nos dias de hoje",
+      "url": "https://www.youtube.com/watch?v=RGAtd-R1qDY"
+    },
+    {
+      "id": 20,
+      "categoriaId": 5,
+      "titulo": "Beatles + Orquestra Ouro Preto",
+      "url": "https://www.youtube.com/watch?v=KIp90YIHgaE&list=PLCTdw8IL3xXdkspcg6rfgBJggkV6WcHlB"
+    },
+    {
+      "id": 21,
+      "categoriaId": 5,
+      "titulo": "Vivaldi",
+       "url": "https://www.youtube.com/watch?v=zzE-kVadtNw"
+    },
+    {
+      "id": 22,
+      "categoriaId": 5,
+      "titulo": "Bohemian Rhapsody",
+     "url": "https://www.youtube.com/watch?v=VrNB4ZR-52I"
+    },
+    {
+      "id": 23,
+      "categoriaId": 5,
+      "titulo": "Pop Nacional",
+      "url": "https://www.youtube.com/watch?v=1i35vTw-rzE"
+    },
+    {
+      "id": 24,
+      "categoriaId": 5,
+      "titulo": "Rock Nacional",
+      "url": "https://www.youtube.com/watch?v=_hx3xqM6y-Q"
+    }
+
+  ]
+}

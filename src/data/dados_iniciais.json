@@ -1,183 +1,149 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Curiosidades e afins",
+      "link": "https://github.com/MaviMendes",
       "cor": "#0870d1",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Na vibe \"só sei que nada sei\"",
+        "url": "https://www.dw.com/pt-br/not%C3%ADcias/cultura/s-7144"
       },
       "videos": [
         {
-          "titulo": "Desafio você a não ficar curiose e assistir ao menos 10 vídeos de uma vez",
-          "url": "https://www.youtube.com/watch?v=nZP7pb_t4oA"
+          "titulo": "Think like a coder",
+          "url": "https://www.youtube.com/watch?v=KFVdHDMcepw&list=PLJicmE8fK0EgogMqDYMgcADT1j5b911or&t=0s"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Podem as máquinas ler nossas mentes?",
+          "url": "https://www.youtube.com/watch?v=QFk3e5PcK7s&list=PLJicmE8fK0EjmM_h5SlfvmbW_ZxKjLzHR&index=2"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "A física do Pequeno Príncipe",
+          "url": "https://www.youtube.com/watch?v=x9xSGQwg7JI"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Desigualdade social em Flatland",
+          "url": "https://www.youtube.com/watch?v=wmI0dXY2LdU&list=PLtjX2mCwXXQtQBGeRMTprqaEkYxBDbI2A&index=7"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
-        },
-        {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
-      ]
-    },
-    {
-      "titulo": "Back End",
-      "cor": "#b80606",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
-      "videos": [
-        {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
-        },
-        {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-        },
-        {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "O que é inteligência?",
+          "url": "https://www.youtube.com/watch?v=ck4RGeoHFko"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Podcasts",
+      "cor": "#b80606",
+      "link_extra": {
+        "text": "Conversas pra aprender",
+        "url": "https://www.b9.com.br/podcasts/"
+      },
+      "videos": [
+        {
+          "titulo": "O cérebro humano é um computador?",
+          "url": "https://www.youtube.com/watch?v=s3RCSFfV-OQ"
+        },
+        {
+          "titulo": "Afrofuturismo",
+          "url": "https://www.youtube.com/watch?v=xUix2kmUkN8"
+        },
+        {
+          "titulo": "Onde estamos com a cabeça?",
+          "url": "https://www.youtube.com/watch?v=mvJllp1LhqM"
+        },
+        {
+          "titulo": "Como a ciência transformou as compras?",
+          "url": "https://www.youtube.com/watch?v=X_YQzzYIueQ"
+        },
+        {
+          "titulo": "Estudar por toda a vida é a nova realidade?",
+          "url": "https://www.youtube.com/watch?v=zkmvCXLNq70"
+        }
+      ]
+    },
+    {
+      "titulo": "Programação",
       "cor": "#ffc908",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Lógica de programação, linguagens, exerícios",
+        "url": "https://www.geeksforgeeks.org/"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Lógica de programação",
+          "url": "https://www.youtube.com/watch?v=41ubXTEPFO0&list=PLucm8g_ezqNpYL-z-lutCuBplhx9aqkdd&index=1"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Linguagem C",
+          "url": "https://www.youtube.com/watch?v=qe937LehVvY"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Python for beginners",
+          "url": "https://www.youtube.com/watch?v=rfscVS0vtbw&t=9s"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "JavaScript",
+          "url": "https://www.youtube.com/watch?v=PkZNo7MFNFg&t=2s"
+        },
+        {
+          "titulo": "Programando um Bot para o WhatsApp",
+          "url": "https://www.youtube.com/watch?v=a4xBBq8aEag"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Veganismo",
       "cor": "#0870d1",
+      "link_extra": {
+        "text": "O que é? Por que adotar esse estilo de vida?",
+        "url": "https://www.svb.org.br/"
+      },
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "10 dicas para se tornar vegano(a)",
+          "url": "https://www.youtube.com/watch?v=52DnBXYCdYU"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Campos de Veneno: soja na floresta amazônica",
+          "url": "https://www.youtube.com/watch?v=04Is5kjt8CQ"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "O Que Aconteceria se de Repente o Mundo se Tornasse Vegetariano?",
+          "url": "https://www.youtube.com/watch?v=2pPwwU1N9hM"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Monja Coen: Vegetarianos nos dias de hoje",
+          "url": "https://www.youtube.com/watch?v=RGAtd-R1qDY"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Música clássica",
       "cor": "#10a308",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Para relaxar e apreciar",
+        "url": "http://www.grupocorpo.com.br/pt-br"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Beatles + Orquestra Ouro Preto",
+          "url": "https://www.youtube.com/watch?v=KIp90YIHgaE&list=PLCTdw8IL3xXdkspcg6rfgBJggkV6WcHlB"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Vivaldi",
+          "url": "https://www.youtube.com/watch?v=zzE-kVadtNw"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Bohemian Rhapsody",
+          "url": "https://www.youtube.com/watch?v=VrNB4ZR-52I"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Pop Nacional",
+          "url": "https://www.youtube.com/watch?v=1i35vTw-rzE"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-        }
-      ]
-    },
-    {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#b80606",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
-      "videos": [
-        {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-        },
-        {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-        },
-        {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Rock Nacional",
+          "url": "https://www.youtube.com/watch?v=_hx3xqM6y-Q"
         }
       ]
     }
